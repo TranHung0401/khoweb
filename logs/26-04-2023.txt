@@ -1,0 +1,6 @@
+54.70.206.1()--query--tables(delete from table_user_online where time < 1682452341) (03:02:21 26/04/2023)
+54.191.54.68()--query--tables(delete from table_user_online where time < 1682452862) (03:11:02 26/04/2023)
+54.184.24.78()--query--tables(delete from table_user_online where time < 1682453108) (03:15:08 26/04/2023)
+220.151.9.22()--query--tables(delete from table_user_online where time < 1682463944) (06:15:44 26/04/2023)
+198.235.24.223()--query--tables(delete from table_user_online where time < 1682480365) (10:49:25 26/04/2023)
+173.252.95.7()--query--tables(delete from table_user_online where time < 1682493634) (14:30:34 26/04/2023)

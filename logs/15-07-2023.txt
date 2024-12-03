@@ -1,0 +1,3 @@
+68.183.119.168()--query--tables(delete from table_user_online where time < 1689363973) (02:56:13 15/07/2023)
+52.39.148.20()--query--tables(delete from table_user_online where time < 1689421050) (18:47:30 15/07/2023)
+52.12.198.9()--query--tables(delete from table_user_online where time < 1689421072) (18:47:52 15/07/2023)
